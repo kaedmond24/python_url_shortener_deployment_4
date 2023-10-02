@@ -122,7 +122,7 @@ The following files are needed to run this deployment:
 
 # System Diagram
 
-CI/CD Pipeline Architecture [Link](https://github.com/kaedmond24/python_url_shortener_app_deployment_2/blob/main/c4_deployment_4.png)
+CI/CD Pipeline Architecture [Link](https://github.com/kaedmond24/python_url_shortener_deployment_4/blob/main/c4_deployment_4.png)
 
 # Issues
 
