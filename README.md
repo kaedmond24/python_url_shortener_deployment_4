@@ -114,6 +114,7 @@ The following files are needed to run this deployment:
     - In Jenkins, select Build Now
     - During the pipeline run we're lookng for a successful build and test.
       ![deploy_4_jenkins_build](images/deploy_4_jenkins_build.png)<br><br>
+    - Connect to Python URL Shortener app at `http://<instance public IP>:8000`
 
 8.  Review Datadog Metrics
     - From Datadog dashboard, navigate to Metrics > Explorer
